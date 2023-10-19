@@ -1,0 +1,1 @@
+<a href="{{route('google.auth')}}">Loogin With Goolge</a>
